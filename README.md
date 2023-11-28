@@ -6,13 +6,6 @@ Este es un proyecto personal que permite a los usuarios añadir, eliminar, ver y
 
 Puedes ver el proyecto en vivo [aquí](https://lyrics-app-f623d.firebaseapp.com/).
 
-## Características
-
-- **Añadir Lyrics**: Los usuarios pueden añadir nuevos lyrics a la base de datos.
-- **Eliminar Lyrics**: Los usuarios pueden eliminar lyrics existentes.
-- **Ver Lyrics**: Los usuarios pueden ver todos los lyrics disponibles.
-- **Editar Lyrics**: Los usuarios pueden editar lyrics existentes.
-
 ## Tecnologías Utilizadas
 
 - **Firebase Authentication**: Se utiliza para autenticar a los usuarios a través de Google.
